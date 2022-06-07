@@ -1,2 +1,2 @@
 # bot-css
- Botões animado e editados em CSS.
+ Botões animados e editados em CSS.
